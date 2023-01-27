@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @velocity-afk
-- 👀 I’m interested in AIML
 - 🌱 I’m currently learning C language
 
 <!---
