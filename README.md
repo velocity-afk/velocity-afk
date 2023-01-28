@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @velocity-afk
+- 👋 Hi, I’m @Arnoldph11
 - 🌱 I’m currently learning C language
 
 <!---
