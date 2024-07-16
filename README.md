@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Arnoldph11
-- 🌱 I’m currently learning C language
+- 👋 Hi, I’m @Arnold Philip
 
 <!---
 velocity-afk/velocity-afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
